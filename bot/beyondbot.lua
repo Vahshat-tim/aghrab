@@ -291,26 +291,25 @@ function create_config( )
     "anti_spam",
     "killme"
     },
-    sudo_users = {157059515},--Sudo users
-    disabled_channels = {},
+      sudo_users = {174410791,293626163},--Sudo users
+    disabled_channels = {@Aqrab_team},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[😎Tele Beyond Final Version😎
-➡️An Administrator The PowerFull Bot Based On TeleSeed And Bilingual Written On Lua⬅️
+    about_text = [[😎Tele A_R_SH😎
+➡️علے☆رضا☆شـرارهہ⬅️
 
 Source On GitHub :
 
-Https://Github.com/solid021/TeleBeyond
+Coming Soon.....
 
 ▶️Sudo Users :
 
-Developer&Founder : @SoLiD021
+Developer&Founder : @mesle_saratan_shodi_vase_man ☆ @In_love_sharare
 
-Developer&Manager : @MrHalix
-
-Developer&Manager : @idivanmanheb
-
+Developer&Manager : 
+@mesle_saratan_shodi_vase_man ☆ @In_love_sharare
+Developer&Manager : @mesle_saratan_shodi_vase_man ☆ @In_love_sharare
 #⃣Team Channel :
-✌️ @BeyondTeam ✌️
+👣 @Aqrab_team 👣
 
 ❤️Special Thx To :
 Beyond Team
