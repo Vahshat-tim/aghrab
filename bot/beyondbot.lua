@@ -292,7 +292,7 @@ function create_config( )
     "killme"
     },
       sudo_users = {174410791,293626163},--Sudo users
-    disabled_channels = {@Aqrab_team},
+    disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[😎Tele A_R_SH😎
 ➡️علے☆رضا☆شـرارهہ⬅️
